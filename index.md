@@ -27,9 +27,9 @@
 
 
 ## [Omdena Colaboration Challenges ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
