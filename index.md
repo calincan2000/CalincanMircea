@@ -8,7 +8,7 @@
 
 
 ## Deep Learning Projects 
-- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
 - ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 - ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
