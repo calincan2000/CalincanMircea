@@ -1,4 +1,4 @@
-# **Machine Learning Projects Blog**
+# **_Machine Learning Projects Blog_**
 
 
 ## Computer Vision Projects 
