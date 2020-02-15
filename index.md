@@ -11,6 +11,8 @@
 - ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
 - ### [Dog Breed Classifier ](https://github.com/calincan2000/Dog-Breed-Classifier)
 - ### [Generate-TV-Scripts ](https://github.com/calincan2000/Generate-TV-Scripts)
+- ### [Generate Faces ](https://github.com/calincan2000/GenerateFaces)
+
 
 
 ## Deep Reinforcement Learning Projects
