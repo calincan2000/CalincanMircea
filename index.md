@@ -1,29 +1,29 @@
-Machine Learning Projects Blog
+# Machine Learning Projects Blog
 
 
 ## [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
 
 ## [Deep Learning Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
 
 ## [Deep Reinforcement Learning Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
 
 
 ## [Android Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
 
 ## [Omdena Colaboration Challenges ](https://github.com/calincan2000?tab=repositories)
