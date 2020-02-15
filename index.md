@@ -9,7 +9,7 @@
 
 ## Deep Learning Projects 
 - ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
-- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Dog Breed Classifier ](https://github.com/calincan2000/Dog-Breed-Classifier)
 - ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
 
