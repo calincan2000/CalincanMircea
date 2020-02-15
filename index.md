@@ -14,9 +14,9 @@
 
 
 ## Deep Reinforcement Learning Projects
-- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Navigation DeepReinforcemnt Learning ](https://github.com/calincan2000/Navigation_DeepReinforcemntLearning)
+- ### [Continuous Control ](https://github.com/calincan2000/Continuous_Control)
+- ### [Tenis Collaboration And Competition](https://github.com/calincan2000/TenisCollaborationAndCompetition)
 
 
 
