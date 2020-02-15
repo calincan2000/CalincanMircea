@@ -2,7 +2,7 @@
 
 
 ## Computer Vision Projects 
-- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Facial Keypoint Detection ](https://github.com/calincan2000/CVND-Facial-Keypoint-Detection)
 - ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 - ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
