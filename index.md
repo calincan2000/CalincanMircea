@@ -1,7 +1,32 @@
 # Mircea's Machine Learning Projects Blog
 
-You can use the [editor on GitHub](https://github.com/calincan2000/CalincanMircea/edit/master/index.md) to maintain and 
+
 ## [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+
+
+## [Deep Learning Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+
+
+## [Deep Reinforcement Learning Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+
+
+
+## [Android Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+
+
+## [Omdena Colaboration Challenges ](https://github.com/calincan2000?tab=repositories)
 - [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 - [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 - [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
