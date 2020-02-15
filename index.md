@@ -4,7 +4,7 @@
 ## Computer Vision Projects 
 - ### [Facial Keypoint Detection ](https://github.com/calincan2000/CVND-Facial-Keypoint-Detection)
 - ### [Image Captioning ](https://github.com/calincan2000/CVND-Image-Captioning-PyTorch-)
-- ### [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- ### [Landmark Detection & Tracking (SLAM)](https://github.com/calincan2000/CVND-Landmark-Detection-Tracking-SLAM-)
 
 
 ## Deep Learning Projects 
