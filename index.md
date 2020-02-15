@@ -2,9 +2,9 @@ Machine Learning Projects Blog
 
 
 ## [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- # [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- # [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
-- # [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
+- [Computer Vision Projects ](https://github.com/calincan2000?tab=repositories)
 
 
 ## [Deep Learning Projects ](https://github.com/calincan2000?tab=repositories)
