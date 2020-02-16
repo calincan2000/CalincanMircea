@@ -37,10 +37,10 @@ EmoAR is a mobile AR application (mobile device with ARCore support is required)
 - ### [Facial Keypoint Detection ](https://github.com/calincan2000/CVND-Facial-Keypoint-Detection)
 Apply your knowledge of image processing and deep learning to create a CNN for facial keypoint (eyes,mouth, nose, etc.) detection, build with **PyTorch, NumPy, OpenCV's pre-trained Haar Cascade classifiers, Pandas**.
 - ### [Image Captioning ](https://github.com/calincan2000/CVND-Image-Captioning-PyTorch-)
-Train a CNN-RNN model to predict captions for a given image. Your main task will be to implement an effective RNN decoder for a CNN encoder, build with **PyTorch, NumPy, Microsoft Common Objects in COntext (MS COCO) dataset**..
+Train a CNN-RNN model to predict captions for a given image. Your main task will be to implement an effective RNN decoder for a CNN encoder, build with **PyTorch, NumPy, Microsoft Common Objects in Context (MS COCO) dataset**.
 - ### [Landmark Detection & Tracking (SLAM)](https://github.com/calincan2000/CVND-Landmark-Detection-Tracking-SLAM-)
 Implement SLAM, a robust method for tracking an object over time and mapping out its surrounding
-environment, using elements of probability, motion models, and linear algebra.
+environment, using elements of probability, motion models, and linear algebra, build with **Python, NumPy,Pandas **.
 
 
 ## Deep Reinforcement Learning Projects -[See credential]( https://confirm.udacity.com/NMV23PC2)
