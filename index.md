@@ -40,13 +40,13 @@ Apply your knowledge of image processing and deep learning to create a CNN for f
 Train a CNN-RNN model to predict captions for a given image. Your main task will be to implement an effective RNN decoder for a CNN encoder, build with **PyTorch, NumPy, Microsoft Common Objects in Context (MS COCO) dataset**.
 - ### [Landmark Detection & Tracking (SLAM)](https://github.com/calincan2000/CVND-Landmark-Detection-Tracking-SLAM-)
 Implement SLAM, a robust method for tracking an object over time and mapping out its surrounding
-environment, using elements of probability, motion models, and linear algebra, build with **Python, NumPy,Pandas **.
+environment, using elements of probability, motion models, and linear algebra, build with **Python, NumPy,Pandas**.
 
 
 ## Deep Reinforcement Learning Projects -[See credential]( https://confirm.udacity.com/NMV23PC2)
 - ### [Navigation DeepReinforcemnt Learning ](https://github.com/calincan2000/Navigation_DeepReinforcemntLearning)
-Train an agent to navigate a large world and collect yellow bananas, while avoiding blue bananas.
+Train an agent to navigate a large world and collect yellow bananas, while avoiding blue bananas, build with **PyTorch, NumPy, Unity ML-Agents**.
 - ### [Continuous Control ](https://github.com/calincan2000/Continuous_Control)
-Train a double-jointed arm to reach target locations.
+Train a double-jointed arm to reach target locations, build with **PyTorch, NumPy, Unity ML-Agents**.
 - ### [Tenis Collaboration And Competition](https://github.com/calincan2000/TenisCollaborationAndCompetition)
-Train a pair of agents to play tennis.
+Train a pair of agents to play tennis, build with **PyTorch, NumPy, Unity ML-Agents**.
