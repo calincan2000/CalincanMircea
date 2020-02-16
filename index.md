@@ -10,8 +10,6 @@
 - ### [Generate Faces ](https://github.com/calincan2000/GenerateFaces)
 - ### [Deploying-a-Sentiment-Analysis-Model](https://github.com/calincan2000/Deploying-a-Sentiment-Analysis-Model)
 
-https://github.com/calincan2000/Image-classifier
-
 
 ## Computer Vision Projects 
 - ### [Facial expression recognition and Augmented Reality (AR)](https://github.com/aksht94/UdacityOpenSource/tree/master/EmoAR)
