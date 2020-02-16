@@ -2,13 +2,31 @@
 
 
 
-## Deep Learning Projects 
+## Deep Learning Projects -[See credential](https://graduation.udacity.com/nd101)
+
 - ### [Image-classifier from scratch that will identify different species of flowers](https://github.com/calincan2000/Image-classifier)
 - ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
+Learn neural network basics, and build your first network with Python and NumPy. Use the modern deep
+learning framework PyTorch to build multi-layer neural networks, and analyze real data.
+In this project, you'll build and train your own Neural Network from scratch to predict the number of
+bikeshare users on a given day. Good luck!
 - ### [Dog Breed Classifier ](https://github.com/calincan2000/Dog-Breed-Classifier)
+Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on
+patterns and objects that appear in them. Use these networks to learn data compression and image denoising.
+In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an
+image of a dog, your algorithm will identify an estimate of the canine’s breed.
 - ### [Generate-TV-Scripts ](https://github.com/calincan2000/Generate-TV-Scripts)
+Build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment
+analysis and use recurrent networks to generate new text from TV scripts.
 - ### [Generate Faces ](https://github.com/calincan2000/GenerateFaces)
+Learn to understand and implement a Deep Convolutional GAN (generative adversarial network) to generate
+realistic images, with Ian Goodfellow, the inventor of GANs, and Jun-Yan Zhu, the creator of CycleGANs.
+Define two adversarial networks, a generator and discriminator, and train them until you can generate
+realistic faces
 - ### [Deploying-a-Sentiment-Analysis-Model](https://github.com/calincan2000/Deploying-a-Sentiment-Analysis-Model)
+Train and deploy your own sentiment analysis model using Amazon's SageMaker. Deployment gives you the
+ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for
+accessing it from a website.
 - ### [Somalia UNHCR Patterns](https://github.com/unhcr/Jetson/tree/master/Finding-the-Nexus/FindTheNexusDeepLearning)
 
 
