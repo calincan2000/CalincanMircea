@@ -29,7 +29,7 @@ Train and deploy your own sentiment analysis model using Amazon's SageMaker. Dep
 ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for
 accessing it from a website.
 - ### [Somalia UNHCR Patterns](https://github.com/unhcr/Jetson/tree/master/Finding-the-Nexus/FindTheNexusDeepLearning)
-A neural network that predicts the weekly VHI of Somalia by using historical data as described [here](https://medium.com/omdena/using-ai-to-predict-droughts-floods-and-conflict-displacements-in-somalia-40cba6200f3c)
+A neural network that predicts and compares the weekly Vegetation Health Index with the number of forced displacements of Somalia by using historical data as described [here](https://medium.com/omdena/using-ai-to-predict-droughts-floods-and-conflict-displacements-in-somalia-40cba6200f3c)
 
 
 ##  Computer Vision Projects()-[See credential](https://graduation.udacity.com/nd891)
