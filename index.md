@@ -8,7 +8,7 @@
 Project image classifier from scratch that will identify 102 species of flowers build with **Python, PyTorch, Numpy** .
 
 - ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
-Learn neural network basics, and build your first network with **Python, NumPy, Pandas**. Use the modern deep
+Learn neural network basics, and build your first network with **PyTorch, NumPy, Pandas**. Use the modern deep
 learning framework **PyTorch** to build multi-layer neural networks, and analyze real data.
 In this project, you'll build and train your own Neural Network from scratch to predict the number of bikeshare users on a given day.
 - ### [Dog Breed Classifier ](https://github.com/calincan2000/Dog-Breed-Classifier)
@@ -27,19 +27,17 @@ Train and deploy your own sentiment analysis model using Amazon's SageMaker. Dep
 ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for
 accessing it from a website, buid with **PyTorch, NumPy, Pandas, SageMaker**.
 - ### [Somalia UNHCR Patterns](https://github.com/unhcr/Jetson/tree/master/Finding-the-Nexus/FindTheNexusDeepLearning)
-A neural network that predicts and compares the weekly Vegetation Health Index with the number of forced displacements of Somalia by using historical data as described [here](https://medium.com/omdena/using-ai-to-predict-droughts-floods-and-conflict-displacements-in-somalia-40cba6200f3c) Build with **Python, NumPy, Pandas**.
+A neural network that predicts and compares the weekly Vegetation Health Index with the number of forced displacements of Somalia by using historical data as described [here](https://medium.com/omdena/using-ai-to-predict-droughts-floods-and-conflict-displacements-in-somalia-40cba6200f3c) Build with **PyTorch, NumPy, Pandas**.
 
 
 ##  Computer Vision Projects-[See credential](https://confirm.udacity.com/M949C59C)
 
 - ### [Facial expression recognition and Augmented Reality (AR)](https://github.com/aksht94/UdacityOpenSource/tree/master/EmoAR)
-EmoAR is a mobile AR application (mobile device with ARCore support is required) that aims to recognize human facial expression in real time and to overlay virtual content according to the recognized facial expression , build with **PyTorch, NumPy, herokuapp deploynement  **.
+EmoAR is a mobile AR application (mobile device with ARCore support is required) that aims to recognize human facial expression in real time and to overlay virtual content according to the recognized facial expression , build with **PyTorch, NumPy, herokuapp deploynement**.
 - ### [Facial Keypoint Detection ](https://github.com/calincan2000/CVND-Facial-Keypoint-Detection)
-Apply your knowledge of image processing and deep learning to create a CNN for facial keypoint (eyes,
-mouth, nose, etc.) detection.
+Apply your knowledge of image processing and deep learning to create a CNN for facial keypoint (eyes,mouth, nose, etc.) detection, build with **PyTorch, NumPy, OpenCV's pre-trained Haar Cascade classifiers, Pandas**.
 - ### [Image Captioning ](https://github.com/calincan2000/CVND-Image-Captioning-PyTorch-)
-Train a CNN-RNN model to predict captions for a given image. Your main task will be to implement an
-effective RNN decoder for a CNN encoder.
+Train a CNN-RNN model to predict captions for a given image. Your main task will be to implement an effective RNN decoder for a CNN encoder, build with **PyTorch, NumPy, Microsoft Common Objects in COntext (MS COCO) dataset**..
 - ### [Landmark Detection & Tracking (SLAM)](https://github.com/calincan2000/CVND-Landmark-Detection-Tracking-SLAM-)
 Implement SLAM, a robust method for tracking an object over time and mapping out its surrounding
 environment, using elements of probability, motion models, and linear algebra.
