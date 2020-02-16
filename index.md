@@ -28,7 +28,10 @@ Implement SLAM, a robust method for tracking an object over time and mapping out
 environment, using elements of probability, motion models, and linear algebra.
 
 
-## Deep Reinforcement Learning Projects
+## Deep Reinforcement Learning Projects -[See credential]( https://graduation.udacity.com/nd893-ent)
 - ### [Navigation DeepReinforcemnt Learning ](https://github.com/calincan2000/Navigation_DeepReinforcemntLearning)
+Train an agent to navigate a large world and collect yellow bananas, while avoiding blue bananas.
 - ### [Continuous Control ](https://github.com/calincan2000/Continuous_Control)
+Train a double-jointed arm to reach target locations.
 - ### [Tenis Collaboration And Competition](https://github.com/calincan2000/TenisCollaborationAndCompetition)
+Train a pair of agents to play tennis.
