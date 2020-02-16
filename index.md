@@ -12,10 +12,9 @@ Learn neural network basics, and build your first network with Python, NumPy, Pa
 learning framework PyTorch to build multi-layer neural networks, and analyze real data.
 In this project, you'll build and train your own Neural Network from scratch to predict the number of bikeshare users on a given day.
 - ### [Dog Breed Classifier ](https://github.com/calincan2000/Dog-Breed-Classifier)
-Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on
-patterns and objects that appear in them. Use these networks to learn data compression and image denoising.
-In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an
-image of a dog, your algorithm will identify an estimate of the canine’s breed.
+Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on patterns and objects that appear in them. Use these networks to learn data compression and image denoising build with PyTorch , OpenCV, Pre-trained VGG-16 Model.
+We use OpenCV's implementation of Haar feature-based cascade classifiers to detect human faces in images.
+In this project, you will learn how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.
 - ### [Generate-TV-Scripts ](https://github.com/calincan2000/Generate-TV-Scripts)
 Build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment
 analysis and use recurrent networks to generate new text from TV scripts.
