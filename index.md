@@ -3,11 +3,14 @@
 
 
 ## Deep Learning Projects 
+- ### [Image-classifier](https://github.com/calincan2000/Image-classifier)
 - ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
 - ### [Dog Breed Classifier ](https://github.com/calincan2000/Dog-Breed-Classifier)
 - ### [Generate-TV-Scripts ](https://github.com/calincan2000/Generate-TV-Scripts)
 - ### [Generate Faces ](https://github.com/calincan2000/GenerateFaces)
 - ### [Deploying-a-Sentiment-Analysis-Model](https://github.com/calincan2000/Deploying-a-Sentiment-Analysis-Model)
+
+https://github.com/calincan2000/Image-classifier
 
 
 ## Computer Vision Projects 
