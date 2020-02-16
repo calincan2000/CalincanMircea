@@ -8,10 +8,9 @@
 Project image classifier from scratch that will identify 102 species of flowers build with Python, PyTorch, Numpy.
 
 - ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
-Learn neural network basics, and build your first network with Python and NumPy. Use the modern deep
+Learn neural network basics, and build your first network with Python, NumPy, Pandas. Use the modern deep
 learning framework PyTorch to build multi-layer neural networks, and analyze real data.
-In this project, you'll build and train your own Neural Network from scratch to predict the number of
-bikeshare users on a given day. Good luck!
+In this project, you'll build and train your own Neural Network from scratch to predict the number of bikeshare users on a given day.
 - ### [Dog Breed Classifier ](https://github.com/calincan2000/Dog-Breed-Classifier)
 Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on
 patterns and objects that appear in them. Use these networks to learn data compression and image denoising.
