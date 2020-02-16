@@ -5,7 +5,8 @@
 ## Deep Learning Projects -[See credential](https://confirm.udacity.com/PVQRUS73)
 
 - ### [Image-classifier from scratch that will identify different species of flowers](https://github.com/calincan2000/Image-classifier)
-Project image classifier from scratch that will identify different species of flowers
+Project image classifier from scratch that will identify 102 species of flowers build with Python, PyTorch, Numpy.
+
 - ### [Predicting Bike-Sharing Patterns ](https://github.com/calincan2000/project-bikesharing)
 Learn neural network basics, and build your first network with Python and NumPy. Use the modern deep
 learning framework PyTorch to build multi-layer neural networks, and analyze real data.
