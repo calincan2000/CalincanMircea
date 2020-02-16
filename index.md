@@ -2,7 +2,7 @@
 
 
 
-## Deep Learning Projects -[See credential](https://graduation.udacity.com/nd101)
+## Deep Learning Projects -[See credential](https://confirm.udacity.com/PVQRUS73)
 
 - ### [Image-classifier from scratch that will identify different species of flowers](https://github.com/calincan2000/Image-classifier)
 Project image classifier from scratch that will identify different species of flowers
@@ -32,7 +32,7 @@ accessing it from a website.
 A neural network that predicts and compares the weekly Vegetation Health Index with the number of forced displacements of Somalia by using historical data as described [here](https://medium.com/omdena/using-ai-to-predict-droughts-floods-and-conflict-displacements-in-somalia-40cba6200f3c)
 
 
-##  Computer Vision Projects()-[See credential](https://graduation.udacity.com/nd891)
+##  Computer Vision Projects()-[See credential](https://confirm.udacity.com/M949C59C)
 
 - ### [Facial expression recognition and Augmented Reality (AR)](https://github.com/aksht94/UdacityOpenSource/tree/master/EmoAR)
 EmoAR is a mobile AR application (mobile device with ARCore support is required) that aims to recognize human facial expression in real time and to overlay virtual content according to the recognized facial expression.
@@ -47,7 +47,7 @@ Implement SLAM, a robust method for tracking an object over time and mapping out
 environment, using elements of probability, motion models, and linear algebra.
 
 
-## Deep Reinforcement Learning Projects -[See credential]( https://graduation.udacity.com/nd893-ent)
+## Deep Reinforcement Learning Projects -[See credential]( https://confirm.udacity.com/NMV23PC2)
 - ### [Navigation DeepReinforcemnt Learning ](https://github.com/calincan2000/Navigation_DeepReinforcemntLearning)
 Train an agent to navigate a large world and collect yellow bananas, while avoiding blue bananas.
 - ### [Continuous Control ](https://github.com/calincan2000/Continuous_Control)
