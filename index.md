@@ -9,6 +9,8 @@
 - ### [Generate-TV-Scripts ](https://github.com/calincan2000/Generate-TV-Scripts)
 - ### [Generate Faces ](https://github.com/calincan2000/GenerateFaces)
 - ### [Deploying-a-Sentiment-Analysis-Model](https://github.com/calincan2000/Deploying-a-Sentiment-Analysis-Model)
+- ### [SOmalia UNHCR Patterns](https://github.com/unhcr/Jetson/tree/master/Finding-the-Nexus/FindTheNexusDeepLearning)
+
 
 
 ## Computer Vision Projects 
